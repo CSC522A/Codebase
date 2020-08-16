@@ -2,19 +2,7 @@ import time
 import alice
 import bob
 
-######################################################################
-#                                                                    #
-#                                                                    #
-#              CS251 Project 2: Cross-chain Atomic Swap              #
-#                                                                    #
-#                                                                    #
-#                                                                    #
-#              Written by: Max Spero                                 #
-#              October 22, 2018                                      #
-#              Version 1.0.1                                         #
-#                                                                    #
-######################################################################
-#
+
 # In this assignment we will implement a cross-chain atomic swap
 # between two parties, Alice and Bob.
 #
